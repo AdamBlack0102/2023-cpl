@@ -1,0 +1,15 @@
+
+ic:S52763"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(Ù½ãÎ8¾¬ùó¸1
+dc:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(÷Ë¹’8Ğ‚Üô¸1
+dc:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(˜¯Ë8Ğ‚Üô¸1
+ic:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¤êóÀüÿÿÿÿ8Ğ‚Üô¸1
+dc:S5276E"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(€‘Ê‹8¾¬ùó¸1
+dc:S5276O"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(€‘Ê‹8¾¬ùó¸1
+Oc:S1659"0Define each identifier in a dedicated statement.(ğã×¯ÿÿÿÿÿ8Ğ‚Üô¸1
+Oc:S1079"5Add a field width specifier to this "%s" placeholder.(ÂÎ×¢8Ğ‚Üô¸1
+Jc:S1659"0Define each identifier in a dedicated statement.(÷Ë¹’8Ğ‚Üô¸1
+Oc:S1659"0Define each identifier in a dedicated statement.(§Ô¥¦ûÿÿÿÿ8Ğ‚Üô¸1
+vc:S995D"XMake the type of this parameter a pointer-to-const. The current type of "x" is "char *".(Á´ïŞùÿÿÿÿ8¾¬ùó¸1
+Gc:S935S")non-void function does not return a value(æÀö€øÿÿÿÿ8¾¬ùó¸1
+fc:S3519G"GOut of bound memory access (access exceeds upper limit of memory block)(û¦®ûÿÿÿÿ8›ªÁô¸1
+fc:S3519Q"GOut of bound memory access (access exceeds upper limit of memory block)(¦ë’êùÿÿÿÿ8›ªÁô¸1

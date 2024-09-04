@@ -8,7 +8,7 @@
 
 int main(void) {
 //print the rules
-    int high = 100;
+    /*int high = 100;
     int chance = 7;
             printf("the computer will generate a random number from 1 to %d.\n"
        "you have %d chances to guess.\n",high,chance);
@@ -38,7 +38,14 @@ int main(void) {
     }
 
     printf("you lose!\n");
-
+*/
+    char str[10][10];//定义二维数组，保存多个字符串
+    int i = 0;
+    while (scanf("%s", str[i])!=EOF)
+    {
+        getchar();
+        i++;
+    }
 
     return 0;
 }

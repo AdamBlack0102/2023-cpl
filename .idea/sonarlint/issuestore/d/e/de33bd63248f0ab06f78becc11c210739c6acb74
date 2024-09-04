@@ -1,0 +1,15 @@
+
+gc:S3776"TRefactor this function to reduce its Cognitive Complexity from 75 to the 25 allowed.(‘àôì
+^c:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¿À∫
+_c:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(˙¢ñ÷
+_c:S134&"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ô‹ŒÅ
+_c:S134<"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¡Ë≤⁄
+_c:S134D"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ô‹ŒÅ
+_c:S134\"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(£≈ø¿
+_c:S134d"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ô‹ŒÅ
+Hc:S1659	"0Define each identifier in a dedicated statement.(ÄÔ¿òˇˇˇˇˇ
+Zc:S3519a"GOut of bound memory access (access exceeds upper limit of memory block)(¶¬©ë
+:c:S1854h""Value stored to 're' is never read(´’é⁄¯ˇˇˇˇ
+:c:S1854m""Value stored to 're' is never read(´’é⁄¯ˇˇˇˇ
+:c:S1854r""Value stored to 're' is never read(´’é⁄¯ˇˇˇˇ
+:c:S1854v""Value stored to 're' is never read(´’é⁄¯ˇˇˇˇ
